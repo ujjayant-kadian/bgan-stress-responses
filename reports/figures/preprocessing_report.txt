@@ -1,0 +1,8 @@
+Preprocessing Quality Report
+==========================
+
+Total samples: 2329
+Average EDA series length: 110.53
+Average BVP series length: 1768.43
+Samples with NaN HRV metrics: 0 (0.0%)
+Samples with timing misalignment: 0
